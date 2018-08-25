@@ -2,6 +2,7 @@
 #include "display_client.h"
 #include "gas_mixer_client.h"
 #include <stdio.h>
+#include <stdlib.h>
 
 int main(int argc, char const *argv[])
 {

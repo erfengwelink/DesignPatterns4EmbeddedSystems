@@ -78,7 +78,7 @@ void gas_mixer_client_unsubcribe(gas_mixer_client_t* me, gas_sensor_t* const gas
             gas_sensor->clients[i].pObject = NULL;
             gas_sensor->clients[i].fn_handler = NULL;
             gas_sensor->n_client--;
-            return
+            return;
         }
     }
 }
