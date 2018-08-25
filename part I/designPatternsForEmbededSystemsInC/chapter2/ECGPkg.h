@@ -2,6 +2,11 @@
 #ifndef __ECG_PKG_H__
 #define __ECG_PKG_H__
 
+/**
+ * define queue size && boolean type
+ * 
+ */
+
 #include <stdio.h>
 /* forward declarations */
 

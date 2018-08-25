@@ -6,7 +6,7 @@
 #include "ECGPkg.h"
 #include "TimeMarkedData.h"
 
-typedef struct TMDQueue TMDQueue;
+typedef struct TMDQueue TMDQueue;//TMD -- time marked data
 
 struct TMDQueue
 {
