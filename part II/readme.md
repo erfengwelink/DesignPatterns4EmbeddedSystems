@@ -1,0 +1,1 @@
+#this part is about the book 'real-time design patterns'
